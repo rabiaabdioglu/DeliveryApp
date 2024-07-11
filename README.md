@@ -11,7 +11,10 @@
 - RxSwift
 - MapKit
 - Notification
+  
+## 🔗 Link
 
+https://youtu.be/p5ka19n1ljM
 
 ## 📸 Screenshots
 
