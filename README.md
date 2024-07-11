@@ -4,7 +4,6 @@
 #### This iOS application is a simple delivery app built with MVVM architecture. It uses Alamofire for networking and RxSwift for reactive programming. 
 
 ## 🍔 🍟 Technologies Used
-- SwiftUI
 - Alamofire
 - MVVM
 - UIKit
